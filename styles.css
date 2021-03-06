@@ -16,7 +16,11 @@ input
   align-self: auto;
 }
 
-
+a
+{
+ background-color : white;
+ font-size : 50px;
+}
 
 hr { 
   border-style: dotted solid;
